@@ -1,21 +1,30 @@
 .page-header {
-  background-color: #C25100;
+  background-color: #b37ba1;
+  text-align: center;
   margin-top: 0;
   padding: 20px 20px 20px 40px;
 }
+
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
   color: #ffffff;
   font-size: 36pt;
   text-decoration: none;
+  font-family: 'Courier New';
 }
 
 .content {
   margin-left: 40px;
 }
 
-h1, h2, h3, h4 {
-  font-family: 'Lobster', cursive;
+h4{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Courier New';
+}
+
+h2, h3 {
+  font-family: 'Lucidatypewriter';
 }
 
 .date {
