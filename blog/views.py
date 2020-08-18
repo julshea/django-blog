@@ -42,6 +42,6 @@ def post_edit(request, pk):
         form = PostForm(instance=post)
     return render(request, 'blog/post_edit.html', {'form': form})
 
-# def cv_current(request):
-#     cv = get_object_or_404(CV)
-#     return render(request, 'blog/cv_current.html', {'CV': cv})
+def cv_current(request):
+     cvs = CV.objects.all()
+     return render(request, 'blog/cv_current.html', {'cvs': cvs})
