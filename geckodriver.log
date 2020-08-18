@@ -143,3 +143,82 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 1597693025101	Marionette	INFO	Listening on port 56900
 1597693025167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597694953090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofileIx1lLT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597694955065	Marionette	INFO	Listening on port 57139
+1597694955133	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1597694961340	Marionette	INFO	Stopped listening on port 57139
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1597694991395	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofilewvqyCH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597694993145	Marionette	INFO	Listening on port 57209
+1597694993250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597694993975	Marionette	INFO	Stopped listening on port 57209
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1597696457429	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofileSp8J91"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597696459482	Marionette	INFO	Listening on port 57473
+1597696459578	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1597696511962	Marionette	INFO	Stopped listening on port 57473
+1597696726386	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofileEGuxQF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597696728169	Marionette	INFO	Listening on port 57590
+1597696728221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597696729072	Marionette	INFO	Stopped listening on port 57590
+1597696938475	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofile8H494x"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597696940237	Marionette	INFO	Listening on port 57653
+1597696940320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597696941273	Marionette	INFO	Stopped listening on port 57653
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1597696982379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofileLcGE1A"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597696984197	Marionette	INFO	Listening on port 57712
+1597696984212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597696984728	Marionette	INFO	Stopped listening on port 57712
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1597697141859	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofileaGlThC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597697143636	Marionette	INFO	Listening on port 57769
+1597697143688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597697144190	Marionette	INFO	Stopped listening on port 57769
+1597697235114	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofilemBA3F2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597697237117	Marionette	INFO	Listening on port 57831
+1597697237163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597697237670	Marionette	INFO	Stopped listening on port 57831
+1597697295004	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofile80Jv34"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597697296941	Marionette	INFO	Listening on port 57889
+1597697296950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597697297365	Marionette	INFO	Stopped listening on port 57889
+1597697339027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofilep16PBw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597697340987	Marionette	INFO	Listening on port 57945
+1597697341072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597697341383	Marionette	INFO	Stopped listening on port 57945
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1597697419390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/b3/rxv8nfls7zdc4bfrnph750y40000gn/T/rust_mozprofile9vMf0N"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597697421253	Marionette	INFO	Listening on port 58004
+1597697421331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597697421872	Marionette	INFO	Stopped listening on port 58004
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/IDBHelpers.jsm, line 24: Error: IndexedDB: main/fxmonitor-breaches list() IndexedDB:  execute() The application is shutting down
