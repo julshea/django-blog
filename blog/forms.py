@@ -7,7 +7,7 @@ class PostForm(forms.ModelForm):
         model = Post
         fields = ('title', 'text',)
 
-# class CVForm(forms.ModelForm):
-#     class Meta:
-#         model = CV
-#         fields = ('education','experience', 'skills', 'achievements','references')
+class CVForm(forms.ModelForm):
+    class Meta:
+        model = CV
+        fields = ('education','experience', 'skills', 'achievements','references')

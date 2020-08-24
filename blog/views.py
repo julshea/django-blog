@@ -4,6 +4,7 @@ from .models import Post
 from .models import CV
 from django.shortcuts import render, get_object_or_404
 from .forms import PostForm
+from .forms import CVForm
 from django.shortcuts import redirect
 
 # Create your views here.
